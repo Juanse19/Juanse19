@@ -1,6 +1,17 @@
-### Sebastián Losada - @Juanse19 
+# Sebastián Losada - @Juanse19 
+---
 
-### Hi 👋
+## Hi 👋
+---
+
+Soy un chico colombiano Ingeniero de Software apasionado por aprender sobre tecnología. con experiencia en análisis, diseño, desarrollo y prueba de software.
+
+## Contacto
+
+- [Twitter](https://twitter.com/ikenshu)
+- [Linkedin](https://www.linkedin.com/in/ikenshu/)
+- [Email](kenshumorales@gmail.com)
+
 <!--
 **Juanse19/Juanse19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
